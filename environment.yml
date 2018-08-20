@@ -1,0 +1,5 @@
+name: stats
+dependencies:
+  - numpy=1.15.0
+  - pandas=0.23.4
+  - flask=1.0.2
